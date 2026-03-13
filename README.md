@@ -1,6 +1,6 @@
-ESP32-S3-LR1121 Product Engineering Sample Program
+ESP32-S3-LR1121-XF Product Engineering Sample Program
 
-ESP32-S3-LR1121 integrates high-performance Wi-Fi, Bluetooth and LoRa connectivity, supporting Sub-GHz, S-band and 2.4 GHz communication. It enables rapid development of low-power, long-range IoT applications.
+ESP32-S3-LR1121-XF integrates high-performance Wi-Fi, Bluetooth and LoRa connectivity, supporting Sub-GHz, S-band and 2.4 GHz communication. It enables rapid development of low-power, long-range IoT applications.
 
 ![主图](./assets/Product-1.webp)
 
